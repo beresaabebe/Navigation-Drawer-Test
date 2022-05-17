@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="my_files">My Files</string>
+    <string name="shared">Shared</string>
+    <string name="starred">Starred</string>
+    <string name="recent">Recent</string>
+    <string name="back_up">Back up</string>
+    <string name="storage">STORAGE</string>
+    <string name="log_out">Log out</string>
+    <string name="settings">Settings</string>
+    <string name="app">APP</string>
+    <string name="open_drawer">Drawer layout open</string>
+    <string name="close_drawer">Drawer layout close</string>
+    <string name="becky">Becky</string>
+    <string name="email_gmail_com">email@gmail.com</string>
+
+</resources>
